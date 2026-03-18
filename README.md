@@ -84,6 +84,7 @@ speed up the process.
 - Mikalai Birukou (Developer)
 - Camden Kirkland (Programmer, Data Scientist, Technical Instructor)
 - Daniel Escoz Solana (Programmer, working with Node.js since 2014)
+- Andrew Kelley ([package maintainer](https://www.npmjs.com/~superjoe), President of [Zig Software Foundation](https://ziglang.org/zsf/))
 - Petr Pechkurov (Developer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
